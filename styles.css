@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+#head1{
+	color:#2a7ae2;
+	font-family:"Arial"
+}
+#head2{
+	color: #f44336;
+	font-family:"Arial"
+}
+
+#head3{
+	color: #4caf50;
+	font-family:"Arial"
+}
+
+#head4{
+	color: #ff9800;
+	font-family:"Arial"
+}
+
+#head5{
+	color:#607d8b;
+	font-family:"Arial"
+}
+
+#head6{
+	color:#ffeb3b;
+	font-family:"Arial"
+}
